@@ -43,7 +43,7 @@ nav li a {
   font-weight: bold;
   text-decoration: none;
   text-align: center;
-  font-family: Helvetica, sans-serif;
+  font-family: 'Nunito', sans-serif;
   transition: background-color 0.5s, padding 0.5s, font-size 0.5s;
   
 }
