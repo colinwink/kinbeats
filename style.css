@@ -18,6 +18,7 @@ header a {
   text-align: center;
   text-decoration: none;
   transition: color 0.5s;
+  font-family: 'Nunito', sans-serif;
 }
 
 header a:hover {
@@ -96,7 +97,7 @@ nav li a {
   font-weight: bold;
   text-decoration: none;
   text-align: center;
-  font-family: Helvetica, sans-serif;
+  font-family: 'Nunito', sans-serif;
   transition: background-color 0.5s;
 }
 
